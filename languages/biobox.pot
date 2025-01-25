@@ -1,0 +1,60 @@
+# A plugin that adds a BioBox with a widget, shortcode, and metabox.
+# Copyright (C) 2025 Plugin Pal.
+# This file is distributed under the same license as the PACKAGE package.
+# PLUGIN PAL <support@pluginpal.app>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-21 14:53-0500\n"
+"Last-Translator: Plugin Pal <support@pluginpal.app>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: biobox.php:17
+msgid "BioBox - About Me"
+msgstr ""
+
+#: biobox.php:19
+msgid "This should display an image, title text, and paragraph text."
+msgstr ""
+
+#: biobox.php:52
+msgid "Title:"
+msgstr ""
+
+#: biobox.php:58
+msgid "Image URL:"
+msgstr ""
+
+#: biobox.php:64
+msgid "Text:"
+msgstr ""
+
+#: biobox.php:105
+msgid "Twitter"
+msgstr ""
+
+#: biobox.php:108
+msgid "Facebook"
+msgstr ""
+
+#: biobox.php:111
+msgid "LinkedIn"
+msgstr ""
+
+#: biobox.php:114
+msgid "Instagram"
+msgstr ""
+
+#: biobox.php:140
+msgid "BioBox Settings"
+msgstr ""
+
+#: biobox.php:162
+msgid "Disable BioBox shortcode"
+msgstr ""
